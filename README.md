@@ -44,7 +44,7 @@
 
 <!-- YOUTUBE:START -->
 
-- Comming soon ...
+- Coming soon ...
 <!-- YOUTUBE:END -->
 
 ---
@@ -53,7 +53,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Comming soon ...
+- Coming soon ...
 <!-- BLOG-POST-LIST:END -->
 
 ---
