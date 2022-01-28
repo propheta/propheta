@@ -58,6 +58,6 @@
 ---
 
 [website]: https://gabrielbolea.pt
-[youtube]: https://youtube.com/propheta
-[instagram]: https://instagram.com/gabrielbolea
-[linkedin]: https://linkedin.com/in/gabriel.a.bolea
+[youtube]: https://www.youtube.com/channel/UCD1VUbRpX_yBNs4tKzcH2Lg
+[instagram]: https://instagram.com/gabriel.bolea
+[linkedin]: https://www.linkedin.com/in/gabriel-bolea-a2083261/
