@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gabrielbolea.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="propheta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="propheta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gabrielbolea.pt" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/globe-earth.png" />][website]
+[<img align="left" alt="propheta | YouTube" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/youtube-play.png" />][youtube]
+[<img align="left" alt="propheta | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/linkedin.png" />][linkedin]
 [<img align="left" alt="propheta | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/instagram-new.png" />][instagram]
 
 <br />
