@@ -26,12 +26,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/console.png" />
+<img align="left" alt="MSSQL" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/2x/mysql-logo.png" />
+<img align="left" alt="POSTGRES" width="26px" src="https://img.icons8.com/color/2x/postgreesql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/2x/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/2x/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/external-prettycons-flat-prettycons/2x/external-code-terminal-web-seo-prettycons-flat-prettycons.png" />
 
 <br />
 <br />
