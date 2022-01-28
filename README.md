@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gabrielbolea.pt" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/globe-earth.png" />][website]
-[<img align="left" alt="propheta | YouTube" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/youtube-play.png" />][youtube]
-[<img align="left" alt="propheta | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/linkedin.png" />][linkedin]
-[<img align="left" alt="propheta | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/2x/ffffff/instagram-new.png" />][instagram]
+[<img align="left" alt="gabrielbolea.pt" width="22px" src="https://img.icons8.com/bubbles/2x/domain.png" />][website]
+[<img align="left" alt="propheta | YouTube" width="22px" src="https://img.icons8.com/bubbles/2x/youtube-squared.png" />][youtube]
+[<img align="left" alt="propheta | LinkedIn" width="22px" src="https://img.icons8.com/bubbles/344/linkedin.png" />][linkedin]
+[<img align="left" alt="propheta | Instagram" width="22px" src="https://img.icons8.com/bubbles/2x/instagram-new--v2.png" />][instagram]
 
 <br />
 
