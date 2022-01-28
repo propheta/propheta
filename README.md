@@ -31,6 +31,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/2x/mysql-logo.png" />
 <img align="left" alt="POSTGRES" width="26px" src="https://img.icons8.com/color/2x/postgreesql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/2x/mongodb.png" />
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/2x/docker.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/2x/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/external-prettycons-flat-prettycons/2x/external-code-terminal-web-seo-prettycons-flat-prettycons.png" />
 
