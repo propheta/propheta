@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel - aka [propheta][website] 👋
 
-[![Website](https://img.shields.io/website?label=gabrielbolea.pt&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gabrielbolea.pt)
+[![Website](https://img.shields.io/website?label=gabrielbolea.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gabrielbolea.com)
 
 ## I'm a Husband, Father, Developer, and soon to be a Teacher!!
 
